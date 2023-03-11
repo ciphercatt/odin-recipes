@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: hsl(240, 83%, 36%);
+}
+img {
+    height: auto;
+    width: 400px;
+}
+h3 {
+    color: hsl(240, 83%, 36%);
+    background-color: antiquewhite;
+}
+strong {
+    color: aqua;
+}
